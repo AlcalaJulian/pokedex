@@ -1,0 +1,18 @@
+{
+  "@@locale": "pt",
+  "searchPokemon": "Buscar Pokémon",
+  "noResults": "Nenhum resultado",
+  "errorTitle": "Ops! Não foi possível carregar a Pokédex",
+  "errorSubtitle": "Verifique sua conexão ou tente novamente mais tarde.",
+  "tooltipCaptured": "Ver capturados",
+  "height": "Altura",
+  "weight": "Peso",
+  "release": "Liberar!",
+  "capture": "Capturar",
+  "capturedTitle": "Pokémon Capturados",
+  "releaseAllTooltip": "Liberar todos",
+  "noCaptured": "Nenhum Pokémon capturado",
+  "all": "Todos",
+  "sortById": "Ordenar por ID",
+  "sortAZ": "Ordenar A→Z"
+}

@@ -1,0 +1,18 @@
+{
+  "@@locale": "de",
+  "searchPokemon": "Pokémon suchen",
+  "noResults": "Keine Ergebnisse",
+  "errorTitle": "Ups! Der Pokédex konnte nicht geladen werden",
+  "errorSubtitle": "Überprüfe deine Verbindung oder versuche es später erneut.",
+  "tooltipCaptured": "Gefangene anzeigen",
+  "height": "Größe",
+  "weight": "Gewicht",
+  "release": "Freilassen!",
+  "capture": "Fangen",
+  "capturedTitle": "Gefangene Pokémon",
+  "releaseAllTooltip": "Alle freilassen",
+  "noCaptured": "Keine gefangenen Pokémon",
+  "all": "Alle",
+  "sortById": "Nach ID sortieren",
+  "sortAZ": "Sortieren A→Z"
+}
